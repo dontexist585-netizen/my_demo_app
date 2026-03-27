@@ -1,19 +1,11 @@
-#  Assignment Three
+#  Assignment Four
 
-Helper class Image :
-![Screenshot](assignment3/helper.png)
+Emulator Image :
+![Screenshot](assignment4/emulator_appcode.png)
 
-MainCode Images:
-![Screenshot](assignment3/maincode1.png)
-![Screenshot](assignment3/maincode2.png)
-![Screenshot](assignment3/maincode3.png)
+Home Images:
+![Screenshot](assignment4/homeScreen.png)
 
-
-
-Output Images: 
-![Alt text](assignment3/output1.png)
-![Alt text](assignment3/output2.png)
-![Alt text](assignment3/output3.png)
 
 
 For Other Assignment check other branches (current Assignments)
